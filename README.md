@@ -34,9 +34,7 @@ Ordered list
 
 
 table creation
-name|rollno|college
-----|------|-------
-roshini|1|vrsec
+
 ------------------
 
 
@@ -46,4 +44,3 @@ def sum(a,b):
   return a+b
 ```
 -----------------
-:smile:
