@@ -32,13 +32,6 @@ Ordered list
 
 ---------------
 
-
-table creation
-
-------------------
-
-
-
 ```python
 def sum(a,b):
   return a+b
